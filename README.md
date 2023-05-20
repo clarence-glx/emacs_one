@@ -1,7 +1,7 @@
 # emacs_one
 # Move Screen
-c-v :move forward one screenful.
-m-v :move backward one screenful.
+c-v :move forward one screenful. 
+m-v :move backward one screenful. 
 c-l :move the text around the cursor to the center of the screen.
 c-u 0 c-l : move curse position to 0 line.
 
